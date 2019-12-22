@@ -1,0 +1,1 @@
+print("name: Corey\nbreed: Jindo\n1.He was adopted from Korea in winter of 2016\n2.He loves playing with people's socks\n3.His favorite spot at home is by the fireplace\n4.He is very attentive to your emotions\n5.He loves playing in the snow")

@@ -1,0 +1,9 @@
+Retrieve all your dirty clothes 
+Place clothes into the laundry bin 
+Carry the bin to the building’s laundry room 
+Open the door of the washer 
+Place all clothes into washer and close the door  
+Insert laundry card 
+Press “regular wash” 
+Pour half a cup of detergent into the washing machine
+Set timer on your cell phone to 45 minutes
