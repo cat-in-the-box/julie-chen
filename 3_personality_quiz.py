@@ -1,9 +1,10 @@
-print(‘Let’s find out who your bestie is in BTS!’)
+''' PLANNNING 
+print("Let's find out who your bestie is in BTS!")
 
-print(‘What do you like doing in your free time?’)
-print(‘Please type in a letter based on the selection below.\n
-Fishing 1
-Taking a walk in the park 3 
+print('What do you like doing in your free time?')
+print("Please type in a letter based on the selection below.\n" +
+      "Fishing 1\n" +
+      "Taking a walk in the park 3 
 Gaming 5
 Sleeping 7
 Travel to other countries 9
@@ -35,14 +36,10 @@ Jimin - 17
 Taehyung- 18
 Jungkook 19
 
+END PLANNING '''
 
 
-
-
-
-
-BTS QUIZ CODE 
-
+## BTS QUIZ CODE 
 
 Left to Right: V, Yoongi, Jin, Jhope, Namjoon/RM, Jimin, Jungkook :) 
 
